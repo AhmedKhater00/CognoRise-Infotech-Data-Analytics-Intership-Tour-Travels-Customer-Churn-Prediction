@@ -1,6 +1,4 @@
-# Customer Churn Prediction Project
-
-## Title
+# Title
 **Churn Analysis and Prediction: Optimizing Customer Retention for a Travel Company**
 
 ## Introduction
