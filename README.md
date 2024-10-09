@@ -1,5 +1,4 @@
-# Title
-**Churn Analysis and Prediction: Optimizing Customer Retention for a Travel Company**
+# Churn Analysis and Prediction: Optimizing Customer Retention for a Travel Company
 
 ## Introduction
 In the highly competitive travel industry, retaining customers is crucial for sustained profitability. This project aims to analyze customer churn and develop predictive models to identify customers at risk of leaving the company. By understanding the factors contributing to churn, the company can implement targeted strategies to enhance customer satisfaction and loyalty.
